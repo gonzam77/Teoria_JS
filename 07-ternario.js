@@ -1,0 +1,1 @@
+let resultado = (2>3) ? "verdadero" : "falso";
