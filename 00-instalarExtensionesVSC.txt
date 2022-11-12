@@ -1,0 +1,13 @@
+presiona CTRL + SHIFT + X
+en la seccion de buscar ingresar:
+quokka.js presionar install // permite ver la ejecucion en consola
+bracket pair coloraized // colorizacion de brackets y llaves
+eslint
+prettier code
+debugger for crhome // ejecucion paso a paso
+better comments // colorizacion de comentarios
+visual studio intellicode // autocpletado de codigo
+live server // visualizar el codigo desde server 
+
+
+

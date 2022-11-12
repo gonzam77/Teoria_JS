@@ -1,5 +1,6 @@
 //tipo de dato string
 var nombre = "topo";
+//typeof meustra el tipo de dato
 console.log(typeof nombre);
 
 nombre = true;
