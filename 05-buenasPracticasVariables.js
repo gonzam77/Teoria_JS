@@ -1,3 +1,6 @@
+//las variables deben iniciar en misnusculas
+//si la variable comprende mas de una palabra 
+//la siguiente palabra debe iniciar en mayusculas
 let nombreCompleto = "Juan Perez";
 console.log(nombreCompleto);
 

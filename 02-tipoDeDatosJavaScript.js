@@ -5,7 +5,7 @@ console.log(typeof nombre);
 nombre = true;
 console.log(typeof nombre);
 
-// tipo de dato numerico
+// tipo de dato numérico
 var numero = 22;
 console.log(numero);
 
@@ -26,7 +26,7 @@ console.log(bandera);
 console.log(typeof bandera);
 
 
-// ipo de dato function
+// tipo de dato function
 
 function funcion() {
     return console.log("hola");
@@ -75,9 +75,14 @@ console.log(typeof autos);
 
 // datos vacios
 
-var k = '';
-console.log(k);
-console.log(typeof k);
+let string = '';
+console.log(string);
+console.log(typeof string);
+let array = [];
+console.log(array);
+let object = {};
+console.log(object);
+
 
 
 

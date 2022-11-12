@@ -18,4 +18,6 @@ console.log(apellido);
 
 const dni = 3215646;
 dni = 5646546;
+console.log(dni);
+
 
